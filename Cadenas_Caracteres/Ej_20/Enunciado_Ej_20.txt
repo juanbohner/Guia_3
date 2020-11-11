@@ -1,0 +1,4 @@
+ Escribir un programa que lea dos números de stdin en formato de cadena de caracteres, las convierta a
+números de un tipo determinado, los compare y finalmente muestre por stdout los resultados de la
+comparación. Para ello utilizar las funciones atoi() y atof() de la biblioteca estándar. ¿Qué se puede
+concluir sobre su uso? ¿Qué desventajas presenta? 

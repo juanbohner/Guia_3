@@ -1,0 +1,5 @@
+13) a) Definir un tipo enumerativo format_t compuesto por los símbolos FMT_MAYUSCULAS y FMT_MINUSCULAS.
+b) Escribir un programa que lea del flujo de entrada estándar una cadena de caracteres y la convierta de forma
+paramétrica a minúsculas o mayúsculas, según una opción ingresada por el usuario mediante stdin, y muestre el
+resultado de la conversión por stdout. Usar tipos enumerativos para la decodificación de la selección ingresada por
+el usuario. 

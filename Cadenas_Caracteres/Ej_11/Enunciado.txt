@@ -1,0 +1,2 @@
+Escribir un programa que convierta una cadena de caracteres a mayúsculas (equivalente a la función no ANSI
+strlwr()).

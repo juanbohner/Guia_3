@@ -1,0 +1,3 @@
+Escribir un programa que dada una cadena de caracteres y un arreglo de caracteres con espacio suficiente,
+copie los primeros "n" caracteres de la cadena sobre el arreglo, sin terminar la cadena con el carácter nulo.
+(equivalente a la función de biblioteca strncpy(), encabezado <string.h>). 

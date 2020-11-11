@@ -1,0 +1,2 @@
+Escribir un programa que dada una cadena de caracteres, calcule su longitud y la imprima por pantalla
+(equivalente a la función de biblioteca strlen(), encabezado <string.h>). 

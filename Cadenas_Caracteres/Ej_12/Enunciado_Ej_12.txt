@@ -1,0 +1,2 @@
+12) Escribir un programa que convierta una cadena de caracteres a minúsculas (equivalente a la función no ANSI
+strlwr() ). 
